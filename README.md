@@ -167,7 +167,8 @@ Request untuk `duration`, perlu menggunakan header `Content-Type: application/x-
 
 # Contoh Source Code
 
-Contoh request menggunakan javascript boleh dilihat di [codepen.io](https://codepen.io/acfatah/pen/RwwByzM?editors=1010).
+* Contoh request menggunakan javascript di [codepen.io](https://codepen.io/acfatah/pen/RwwByzM?editors=1010)
+* Contoh request menggunakan vue di [codepen.io](https://codepen.io/acfatah/pen/rNOXMYa)
 
 # API Response
 
